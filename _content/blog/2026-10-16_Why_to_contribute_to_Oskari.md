@@ -2,7 +2,7 @@
 title: 'Why to contribute to Oskari?'
 excerpt: "We'll dive into why one should contribute their efforts back to the Oskari core."
 date: 2026-10-16 9:00:00 +0200
-image: resources/2026/contribute.png
+image: /resources/2026/contribute.jpg
 tags:
   - developing
 ---

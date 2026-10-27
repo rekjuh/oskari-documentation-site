@@ -1,13 +1,13 @@
 ---
-title: 'Why to contribute to Oskari?'
+title: 'Why contribute to Oskari?'
 excerpt: "We'll dive into why one should contribute their efforts back to the Oskari core."
 date: 2026-10-16 9:00:00 +0200
-image: /resources/2026/contribute.jpg
+image: /resources/2026/contribute.png
 tags:
   - developing
 ---
 
-## Why to contribute to Oskari?
+## Why contribute to Oskari?
 
 If you’re already working with Oskari, you're benefitting on open source. Oskari is not a software where you have to pay licences to use it, the source code can be reviewed anytime and you do not have a vendor lock-in as the software can be maintained or developed by various different companies.
 

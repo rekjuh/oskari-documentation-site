@@ -11,17 +11,15 @@ tags:
 
 (in English below)
 
-Vuoden 2027 ajan Oskari-verkostoon tulee sääntömuutos, joka mahdollistaa pienempien organisaatioiden liittymisen mukaan Oskarin ohjausryhmän toimintaan ilmaiseksi.
+Vuoden 2027 ajan Oskari-verkostoon tulee sääntömuutos, joka mahdollistaa organisaatioiden liittymisen mukaan Oskarin ohjausryhmän toimintaan tekemällä talkootöitä.
 
-**Tammikuusta 2027 alkaen Oskarin ohjausryhmään (JDF eli Joint-development forum) pääsevät alle 100 hengen organisaatiot ilmaiseksi tekemällä muutaman talkootyön Oskarin hyväksi.**
+**Tammikuusta 2027 alkaen organisaatiot voivat päästä Oskarin ohjausryhmään (JDF eli Joint-development forum) ilmaiseksi tekemällä muutaman talkootyön Oskarin hyväksi.**
 
 Ohjausryhmään osallistuvat organisaatiot voivat olla Oskaria käyttäviä tai Oskarista kiinnostuneita tahoja: firmoja, julkisen puolen organisaatioita, konsultteja, tai oppilaitoksia, joilla on nettiselainkäyttöisiin karttoihin liittyviä tarpeita tai kursseja.
 
 Jäseneksi liittymällä organisaatio voi omalta osaltaan olla mukana varmistamassa Oskarin jatkuvuutta ja kehitystä. Ohjausryhmään liittymällä saa mm. MML:ltä teknistä apua Oskarin kanssa, tukea omaan Oskari-kehitystyöhön ja mahdollisuuden tehdä yhteiskehittämistä muiden organisaatioiden kanssa. Ohjausryhmä kokoontuu noin kerran kuukaudessa Teamsissa ja käy läpi Oskari-sovelluksen ja verkoston jäsenten ajankohtaisia asioita ja tulevia muutoksia. 
 
 Aiemmin ohjausryhmän jäsenyys on ollut maksullista kaikille paitsi yhteisöjäsenille, joita valittiin 1-2 vuosittaisessa Oskarin verkostopäivässä. Vuonna 2027 yhteisöjäseniä ei valita. 
-
-Yli 100 hengen organisaatioille ohjausryhmän jäsenyys on jatkossakin maksullista.
 
 ## Jäseneksi liittyminen
 
@@ -43,7 +41,7 @@ c) Työtä Oskari-ohjelmistolle
 
 ## Hakemus matkaan!
 
-Jos organisaatiossasi on alle 100 henkilöä ja haluatte mukaan Oskarin ohjausryhmään, lähettäkää sähköpostilla vapaamuotoinen hakemus. Ohjausryhmä hyväksyy kokouksessaan hakemukset noin kerran kuussa. 
+Jos haluat mukaan Oskarin ohjausryhmään, lähetä sähköpostilla vapaamuotoinen hakemus. Ohjausryhmä hyväksyy kokouksessaan hakemukset noin kerran kuussa. 
 
 Kertokaa viestissä seuraavat asiat:
 1) Miksi Oskari-verkosto kiinnostaa? 
@@ -57,7 +55,7 @@ Voitte myös suoraan jutella hänen kanssaan 30 min kokouksessa, jonka voit vara
 
 ## In English
 
-In 2027, the JDF rules will change so that **organizations with fewer than 100 people can join the JDF for free. Instead of paying an annual fee, these organizations will be expected to contribute to Oskari through voluntary work.** The annual fee for larger organizations will remain the same.
+In 2027, the JDF rules will change so that **organizations can join the JDF for free. Instead of paying an annual fee, these organizations will be expected to contribute to Oskari through voluntary work.** The possibility to join in by paying the annual fee will remain, too.
 
 JDF members can include organizations that already use Oskari, as well as those interested in it. These may be companies, public-sector organizations, consultants, or educational institutions that offer courses involving web map applications.
 
@@ -85,7 +83,7 @@ c) Work on the software core
 
 ## Send your application
 
-If your organization has fewer than 100 people and would like to join the Joint Development Group, please send us an informal application by email. The JDF reviews and approves applications at its meetings, which take place approximately once a month.
+If your organization would like to join the Joint Development Group, please send us an informal application by email. The JDF reviews and approves applications at its meetings, which take place approximately once a month.
 
 Please include the following information in your message:
 1) Why are you interested in the JDF?
